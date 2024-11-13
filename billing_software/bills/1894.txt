@@ -1,0 +1,19 @@
+	welcome customer
+
+ Bill Number : 1894
+ Customer Name : aditi
+ Phone Number: 2233445566
+======================================
+ Products		Qty		Price
+======================================
+ Bath Soap		7		280
+ Face Wash		2		120
+ Food Oil		5		900
+ Dal		3		180
+ Maza		7		420
+--------------------------------------
+ Cosmetic Tax			Rs. 20.0
+ Grocery Tax			Rs. 108.0
+ Cold Drinks Tax			Rs. 4.2
+ Total Bill : 			 Rs. 2032.2
+--------------------------------------

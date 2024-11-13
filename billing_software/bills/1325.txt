@@ -1,0 +1,21 @@
+	welcome customer
+
+ Bill Number : 1325
+ Customer Name : rahul jain
+ Phone Number: 5566789982
+======================================
+ Products		Qty		Price
+======================================
+ Bath Soap		2		80
+ Hair Spray		3		540
+ Hair Gel		2		240
+ Food Oil		4		720
+ Wheat		3		420
+ Limca		2		80
+ Sprite		2		120
+--------------------------------------
+ Cosmetic Tax			Rs. 43.0
+ Grocery Tax			Rs. 114.0
+ Cold Drinks Tax			Rs. 2.0
+ Total Bill : 			 Rs. 2359.0
+--------------------------------------

@@ -1,0 +1,17 @@
+	welcome customer
+
+ Bill Number : 1970
+ Customer Name : aman
+ Phone Number: 1234567898
+======================================
+ Products		Qty		Price
+======================================
+ Bath Soap		7		280
+ Sugar		7		315
+ Frooti		7		350
+--------------------------------------
+ Cosmetic Tax			Rs. 14.0
+ Grocery Tax			Rs. 31.5
+ Cold Drinks Tax			Rs. 3.5
+ Total Bill : 			 Rs. 994.0
+--------------------------------------
